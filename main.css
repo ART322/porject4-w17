@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+  padding-top: 50px;
+}
+
+.wide {
+  width:100vw;
+  height:100vh;
+  background-image:url('background.jpg');
+  background-size:cover;
+}
+
+.wide img {
+  width:100%;
+}
+
+.logo {
+  color:#fff;
+  font-weight:800;
+  font-size:14pt;
+  padding:25px;
+  text-align:center;
+}
+
+.main {padding-top: 50px;}
